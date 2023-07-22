@@ -26,7 +26,7 @@ https://www.figma.com/file/J8Dw3wWo5MUuSk7a4tmTgw/Evolvia?type=design&node-id=29
 |            Member           | Role |        About        |                                                   
 | :-------------------------: | :--------: | :----------------: | 
 |Muhammad Aufa Atha Rizqullah   | UI/UX Designer |  Final-year informatics engineering student who actively making UI/UX projects | 
-|      Naufaldi Hafidigbal     | Cloud Engineer |  Certified Tensorflow Developer and cloud engineering enthusiast  |
+|      Naufaldi Hafidhigbal     | Cloud Engineer |  Certified Tensorflow Developer and cloud engineering enthusiast  |
 |     Wilda Nurjannah    | Leader | AI and data enthusiast who also studying front-end especially bootstrap |
 
 # Web Snapshot
