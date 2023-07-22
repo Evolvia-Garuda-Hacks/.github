@@ -13,6 +13,9 @@ Your empowered life awaits.**
 # Try Evolvia!
 ### [Visit Here!](https://evolvia.site)
 
+# Our Figma Design
+https://www.figma.com/file/J8Dw3wWo5MUuSk7a4tmTgw/Evolvia?type=design&node-id=292%3A11637&mode=design&t=RszfCp1CgIc57qIc-1
+
 # Repository
 - [Website](https://github.com/Evolvia-Garuda-Hacks/Website)
 - [KMeans-Clustering](https://github.com/Evolvia-Garuda-Hacks/KMeans-Clustering)
@@ -25,9 +28,6 @@ Your empowered life awaits.**
 |Muhammad Aufa Atha Rizqullah   | UI/UX Designer |  Final-year informatics engineering student who actively making UI/UX projects | 
 |      Naufaldi Hafidigbal     | Cloud Engineer |  Certified Tensorflow Developer and cloud engineering enthusiast  |
 |     Wilda Nurjannah    | Leader | AI and data enthusiast who also studying front-end especially bootstrap |
-
-
-
 
 # Web Snapshot
 
