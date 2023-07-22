@@ -29,7 +29,13 @@ Your empowered life awaits.**
 
 
 
-# Project Architecture
+# Web Snapshot
 
-![Web Snapshot]()
+## Homepage
+![Homepage](https://github.com/Evolvia-Garuda-Hacks/.github/blob/main/evolvia_home.png?raw=true)
 
+## Lifestyle
+![Lifestyle](https://github.com/Evolvia-Garuda-Hacks/.github/blob/main/evolvia_lifestyleprediction.png?raw=true)
+
+## Result
+![Lifestyle](https://github.com/Evolvia-Garuda-Hacks/.github/blob/main/evolvia_result.png?raw=true)
