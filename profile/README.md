@@ -39,3 +39,5 @@ https://www.figma.com/file/J8Dw3wWo5MUuSk7a4tmTgw/Evolvia?type=design&node-id=29
 
 ## Result
 ![Lifestyle](https://github.com/Evolvia-Garuda-Hacks/.github/blob/main/evolvia_result.png?raw=true)
+
+***Made with ❤️ by Intermission Team (Evolvia)***
